@@ -64,5 +64,5 @@ jobs:
         username: valerid
         password: ${{secrets.GITHUB_TOKEN}}
         registry: docker.pkg.github.com
-        repository: ValeriD/github-actions-for-packages/tic-tac-toe
+        repository: valerid/github-actions-for-packages/tic-tac-toe
         tag_with_sha: true
